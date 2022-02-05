@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/safe-banking-website/static/css/main.d7da34c1.css",
-    "main.js": "/github.io/safe-banking-website/static/js/main.3b1cec29.js",
+    "main.js": "/github.io/safe-banking-website/static/js/main.c191e4fc.js",
     "static/media/video.mp4": "/github.io/safe-banking-website/static/media/video.7d1ea6a94986d5c2a068.mp4",
     "static/media/svg-1.svg": "/github.io/safe-banking-website/static/media/svg-1.87974c4806769be04df70e8f983493a2.svg",
     "static/media/svg-6.svg": "/github.io/safe-banking-website/static/media/svg-6.6e4ec2224a008c532a08f4871da33f70.svg",
@@ -10,10 +10,10 @@
     "static/media/svg-5.svg": "/github.io/safe-banking-website/static/media/svg-5.e9831a49f170d20a84173172b97545f9.svg",
     "index.html": "/github.io/safe-banking-website/index.html",
     "main.d7da34c1.css.map": "/github.io/safe-banking-website/static/css/main.d7da34c1.css.map",
-    "main.3b1cec29.js.map": "/github.io/safe-banking-website/static/js/main.3b1cec29.js.map"
+    "main.c191e4fc.js.map": "/github.io/safe-banking-website/static/js/main.c191e4fc.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.3b1cec29.js"
+    "static/js/main.c191e4fc.js"
   ]
 }
